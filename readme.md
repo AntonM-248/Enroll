@@ -14,5 +14,5 @@ API endpoints for students to login, search
 for classes, enroll and unenroll while 
 complying with a 30 student limit for each
 course and a 5 course limit for each student.
-The JAva 8 stream api was used extensively 
+The Java 8 stream api was used extensively 
 as well.
